@@ -47,15 +47,15 @@ node server.js
 
 ### Desktop View
 
-![Desktop View](frontend/images/desktop.png)
+![Desktop View](frontend/images/desktop.PNG)
 
 ### Mobile View
 
-![Mobile View](frontend/images/mobile.png)
+![Mobile View](frontend/images/mobile.PNG)
 
 ### Edit Expense
 
-![Edit Expense](frontend/images/edit-expense.png)
+![Edit Expense](frontend/images/edit-expense.PNG)
 
 ## What was the hardest part?
 
