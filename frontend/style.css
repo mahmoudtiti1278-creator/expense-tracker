@@ -1,0 +1,27 @@
+.summary-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+
+@media (max-width: 767.98px) {
+    .summary-grid {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+    .table th,
+    .table td {
+        padding: 4px 3px;
+        font-size: 12px;
+    }
+
+    .table .btn {
+        padding: 2px 4px;
+        font-size: 11px;
+    }
+
+    .table .badge {
+        font-size: 10px;
+        padding: 3px 4px !important;
+    }
+}
