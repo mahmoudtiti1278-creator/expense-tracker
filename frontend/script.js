@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api/expenses";
+const API_URL = "https://expense-tracker-jc4q.onrender.com/api/expenses";
 function showAlert(message, alertId = "alertMessage") {
   const alertMessage = document.getElementById(alertId);
 
