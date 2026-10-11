@@ -60,3 +60,9 @@ node server.js
 ## What was the hardest part?
 
 The hardest part was connecting the frontend to the backend and making sure that all operations work correctly with the PostgreSQL database. I also had some difficulty handling validation, error messages, and displaying the table correctly on mobile devices. I solved these problems by using fetch with async/await, adding validation and error handling, and using Bootstrap classes to improve the mobile layout.
+## GitHub
+
+https://github.com/mahmoudtiti1278-creator/expense-tracker.git
+
+## Video Link:
+
